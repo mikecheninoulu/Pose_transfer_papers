@@ -76,6 +76,9 @@ https://github.com/ziyeshanwai/python-deformation-transfer
 - intro: ECCV 2018, Max Planck, facial mesh matching
 - project: [https://github.com/pixelite1201/pytorch_coma/](https://github.com/pixelite1201/pytorch_coma/)
 
+**[6] : TOSCA dataset**
+- intro: baseline in pytorch
+- project: [http://tosca.cs.technion.ac.il/book/resources_data.html/](http://tosca.cs.technion.ac.il/book/resources_data.html)
 
 
 
