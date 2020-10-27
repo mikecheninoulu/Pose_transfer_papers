@@ -6,7 +6,7 @@
 **[1] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
 - intro: CVPR 2020, baseline, no pose correspondence, code easy
 - arxiv: [https://arxiv.org/abs/1604.02808](https://arxiv.org/abs/1604.02808)
-- github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
+- github: [https://github.com/jiashunwang/Neural-Pose-Transfer](https://github.com/jiashunwang/Neural-Pose-Transfer)
 
 **[2] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
 - intro: ECCV 2020, Max Planck, AMASS dataset, unsupervised, Disentanglement, code hard
@@ -20,7 +20,7 @@
 - github: [https://github.com/lcosmo/LIMP](https://github.com/lcosmo/LIMP)
 
 **[4] Learning Latent Shape Representations with Metric Preservation Priors**
-- intro: ECCV 2020 oral, Disentanglement, solid, interpolation, LIMP
+- intro: ECCV 2020 oral, Disentanglement, solid, interpolation, LIMP, COMA, FRAUST,DFRAUST, SMAL
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/1806.05228](https://arxiv.org/abs/1806.05228)
 - github: [https://github.com/ThibaultGROUEIX/3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED)
@@ -31,6 +31,11 @@
 - code: [https://gitlab.com/taumen/gdvae](https://gitlab.com/taumen/gdvae)
 
 https://github.com/ziyeshanwai/python-deformation-transfer
+
+**[4] Disentangled Representation Learning for 3D Face Shape**
+- intro: CVPR 2019, face, COMA
+- arxiv: [https://arxiv.org/pdf/1902.09887.pdf](https://arxiv.org/pdf/1902.09887.pdf)
+- code: [https://github.com/zihangJiang/DR-Learning-for-3D-Face](https://github.com/zihangJiang/DR-Learning-for-3D-Face)
 
 ***Correspondences
 
