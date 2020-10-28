@@ -30,6 +30,12 @@
 - arxiv: [https://arxiv.org/abs/1908.06386](https://arxiv.org/abs/1908.06386)
 - code: [https://gitlab.com/taumen/gdvae](https://gitlab.com/taumen/gdvae)
 
+
+**[5] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
+- intro: CVPR 2020, local non local, point cloud.
+- arxiv: [https://arxiv.org/pdf/2003.00492.pdf](https://arxiv.org/pdf/2003.00492.pdf)
+- code: [https://github.com/yanx27/PointASNL](https://github.com/yanx27/PointASNL)
+
 https://github.com/ziyeshanwai/python-deformation-transfer
 
 **[4] Disentangled Representation Learning for 3D Face Shape**
