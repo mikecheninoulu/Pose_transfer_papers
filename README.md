@@ -5,7 +5,7 @@
 ***Autoencoder
 **[1] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
 - intro: CVPR 2020, baseline, no pose correspondence, code easy
-- arxiv: [https://arxiv.org/abs/2003.07254](https://arxiv.org/abs/2003.07254)
+- arxiv: [https://arxiv.org/pdf/2003.07254.pdf](https://arxiv.org/pdf/2003.07254.pdf)
 - github: [https://github.com/jiashunwang/Neural-Pose-Transfer](https://github.com/jiashunwang/Neural-Pose-Transfer)
 
 **[2] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
