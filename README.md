@@ -57,7 +57,7 @@ https://github.com/ziyeshanwai/python-deformation-transfer
 ## From RGB to mesh
 
 **[1] Synthetic Training for Accurate 3D Human Pose and Shape Estimation in the Wild**
-- intro: ECCV 2020, finegraned
+- intro: BMVC 2020, finegraned
 - paper: https://www.bmvc2020-conference.com/assets/papers/0081.pdf
 - github: [https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose](https://github.com/akashsengupta1997/STRAPS-3DHumanShapePose)
 
