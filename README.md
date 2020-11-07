@@ -3,17 +3,29 @@
 # Papers
 ## 3D mesh handling
 ***Autoencoder
-**[1] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
+ 
+**[1] Variational autoencoders for deforming 3d mesh models**
+- intro: CVPR 2018, first work, MATLAB
+- paper: [https://openaccess.thecvf.com/content_cvpr_2018/papers/Tan_Variational_Autoencoders_for_CVPR_2018_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tan_Variational_Autoencoders_for_CVPR_2018_paper.pdf)
+- github: [https://github.com/aldehydecho/Mesh-VAE](https://github.com/aldehydecho/Mesh-VAE)
+
+
+**[3] Geometric Disentanglement for Generative Latent Shape Models**
+- intro: ICCV 2019, most famous one, VAE, solid
+- arxiv: [https://arxiv.org/abs/1908.06386](https://arxiv.org/abs/1908.06386)
+- code: [https://gitlab.com/taumen/gdvae](https://gitlab.com/taumen/gdvae)
+
+**[2] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
 - intro: CVPR 2020, baseline, no pose correspondence, code easy
 - arxiv: [https://arxiv.org/pdf/2003.07254.pdf](https://arxiv.org/pdf/2003.07254.pdf)
 - github: [https://github.com/jiashunwang/Neural-Pose-Transfer](https://github.com/jiashunwang/Neural-Pose-Transfer)
 
-**[2] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
+**[3] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
 - intro: ECCV 2020, Max Planck, AMASS dataset, unsupervised, Disentanglement, code hard
 - paper: [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf)
 - github: [https://github.com/kzhou23/shape_pose_disent](https://github.com/kzhou23/shape_pose_disent)
 
-**[3] 3D-CODED : 3D Correspondences by Deep Deformation**
+**[4] 3D-CODED : 3D Correspondences by Deep Deformation**
 - intro: ECCV 2018, benchmark method,
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/2003.12283](https://arxiv.org/abs/2003.12283)
@@ -24,11 +36,6 @@
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/1806.05228](https://arxiv.org/abs/1806.05228)
 - github: [https://github.com/lcosmo/LIMP](https://github.com/lcosmo/LIMP)
-
-**[4] Geometric Disentanglement for Generative Latent Shape Models**
-- intro: ICCV 2019, VAE
-- arxiv: [https://arxiv.org/abs/1908.06386](https://arxiv.org/abs/1908.06386)
-- code: [https://gitlab.com/taumen/gdvae](https://gitlab.com/taumen/gdvae)
 
 
 **[5] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
@@ -45,11 +52,11 @@ https://github.com/ziyeshanwai/python-deformation-transfer
 
 ***Correspondences
 
-**[5] SCAPE: Shape Completion and Animation of People**
+**[1] SCAPE: Shape Completion and Animation of People**
 - intro: SIGGRAPH 2014, classical
 - paper: [http://robots.stanford.edu/papers/anguelov.shapecomp.pdf](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf)
 
-**[6] Deformation transfer for triangle meshes**
+**[2] Deformation transfer for triangle meshes**
 - intro: ACM Transactions on graphics, classical
 - paper: [https://github.com/ziyeshanwai/python-deformation-transfer](https://github.com/ziyeshanwai/python-deformation-transfer)
 - dataset: https://people.csail.mit.edu/sumner/research/deftransfer/data.html
