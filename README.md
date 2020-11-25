@@ -10,42 +10,42 @@
 - github: [https://github.com/aldehydecho/Mesh-VAE](https://github.com/aldehydecho/Mesh-VAE)
 
 
-**[3] Geometric Disentanglement for Generative Latent Shape Models**
+**[2] Geometric Disentanglement for Generative Latent Shape Models**
 - intro: ICCV 2019, most famous one, VAE, solid
 - arxiv: [https://arxiv.org/abs/1908.06386](https://arxiv.org/abs/1908.06386)
 - code: [https://gitlab.com/taumen/gdvae](https://gitlab.com/taumen/gdvae)
 
-**[2] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
+**[3] Neural Pose Transfer by Spatially Adaptive Instance Normalization**
 - intro: CVPR 2020, baseline, no pose correspondence, code easy
 - arxiv: [https://arxiv.org/pdf/2003.07254.pdf](https://arxiv.org/pdf/2003.07254.pdf)
 - github: [https://github.com/jiashunwang/Neural-Pose-Transfer](https://github.com/jiashunwang/Neural-Pose-Transfer)
 
-**[3] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
+**[4] Unsupervised Shape and Pose Disentanglement for 3D Meshes**
 - intro: ECCV 2020, Max Planck, AMASS dataset, unsupervised, Disentanglement, code hard
 - paper: [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf)
 - github: [https://github.com/kzhou23/shape_pose_disent](https://github.com/kzhou23/shape_pose_disent)
 
-**[4] 3D-CODED : 3D Correspondences by Deep Deformation**
+**[5] 3D-CODED : 3D Correspondences by Deep Deformation**
 - intro: ECCV 2018, benchmark method,
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/2003.12283](https://arxiv.org/abs/2003.12283)
 - github: [https://github.com/ThibaultGROUEIX/3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED)
 
-**[4] Learning Latent Shape Representations with Metric Preservation Priors**
+**[6] Learning Latent Shape Representations with Metric Preservation Priors**
 - intro: ECCV 2020 oral, Disentanglement, solid, interpolation, LIMP, COMA, FRAUST,DFRAUST, SMAL
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/1806.05228](https://arxiv.org/abs/1806.05228)
 - github: [https://github.com/lcosmo/LIMP](https://github.com/lcosmo/LIMP)
 
 
-**[5] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
+**[7] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
 - intro: CVPR 2020, local non local, point cloud.
 - arxiv: [https://arxiv.org/pdf/2003.00492.pdf](https://arxiv.org/pdf/2003.00492.pdf)
 - code: [https://github.com/yanx27/PointASNL](https://github.com/yanx27/PointASNL)
 
 https://github.com/ziyeshanwai/python-deformation-transfer
 
-**[4] Disentangled Representation Learning for 3D Face Shape**
+**[8] Disentangled Representation Learning for 3D Face Shape**
 - intro: CVPR 2019, face, COMA
 - arxiv: [https://arxiv.org/pdf/1902.09887.pdf](https://arxiv.org/pdf/1902.09887.pdf)
 - code: [https://github.com/zihangJiang/DR-Learning-for-3D-Face](https://github.com/zihangJiang/DR-Learning-for-3D-Face)
