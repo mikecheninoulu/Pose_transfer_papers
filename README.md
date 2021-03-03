@@ -44,10 +44,15 @@
 - github: [https://github.com/lcosmo/LIMP](https://github.com/lcosmo/LIMP)
 
 
-**[7] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
+**[8] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling**
 - intro: CVPR 2020, local non local, point cloud.
 - arxiv: [https://arxiv.org/pdf/2003.00492.pdf](https://arxiv.org/pdf/2003.00492.pdf)
 - code: [https://github.com/yanx27/PointASNL](https://github.com/yanx27/PointASNL)
+
+
+**[9] Exploring the Geometry of the Space of Shells**
+- intro: Computer Graphics Forum 2014, theory
+- arxiv: [http://ddg.math.uni-goettingen.de/pub/HeRuSc14.pdf](http://ddg.math.uni-goettingen.de/pub/HeRuSc14.pdf)
 
 https://github.com/ziyeshanwai/python-deformation-transfer
 
