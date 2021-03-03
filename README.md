@@ -25,15 +25,21 @@
 - paper: [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670341.pdf)
 - github: [https://github.com/kzhou23/shape_pose_disent](https://github.com/kzhou23/shape_pose_disent)
 
-**[5] 3D-CODED : 3D Correspondences by Deep Deformation**
+**[5] 3D-CODED: 3D Correspondences by Deep Deformation**
 - intro: ECCV 2018, benchmark method,
 - DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/2003.12283](https://arxiv.org/abs/2003.12283)
 - github: [https://github.com/ThibaultGROUEIX/3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED)
 
-**[6] Learning Latent Shape Representations with Metric Preservation Priors**
+**[6] Automatic Unpaired Shape Deformation Transfer**
+- intro: Siggraph Asia 2018, before Unsupervised disentanglement,
+- DATASET: FAUST, DFAUST 
+- paper: [link](http://geometrylearning.com/ausdt/file/186%20automatic%20unpaired%20shape%20deformation%20transfer%20final%20version.pdf)
+- github: [https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer](https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer)
+- project: http://geometrylearning.com/ausdt/
+
+**[7] Learning Latent Shape Representations with Metric Preservation Priors**
 - intro: ECCV 2020 oral, Disentanglement, solid, interpolation, LIMP, COMA, FRAUST,DFRAUST, SMAL
-- DATASET: FAUST-inter, 
 - paper: [https://arxiv.org/abs/1806.05228](https://arxiv.org/abs/1806.05228)
 - github: [https://github.com/lcosmo/LIMP](https://github.com/lcosmo/LIMP)
 
